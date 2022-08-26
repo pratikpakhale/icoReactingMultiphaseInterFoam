@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "weldFoam1.C": "cpp",
+    "icoReactingMultiphaseInterFoam.C": "cpp"
+  }
+}
